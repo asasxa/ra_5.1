@@ -2,4 +2,4 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 // https://vite.dev/config/
-export default defineConfig({ plugins: [ react() ], base: '/ra_ 5.1/' });
+export default defineConfig({ plugins: [ react() ], base: '/ra_5.1/' });
